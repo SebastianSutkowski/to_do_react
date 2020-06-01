@@ -1,0 +1,47 @@
+body{
+  background-color: rgba(50, 122, 170, 0.178);
+}
+form{
+  text-align: center;
+}
+form #newTask{
+border: 1px solid #aaa;
+height: 20px;
+}
+form #priority, h3{
+  display: inline-block;
+}
+form #date{
+font-weight: 600;
+}
+form button{
+margin-top: 20px;
+width: 12vw;
+height: 30px;
+font-size: 15px;
+background-color: rgb(72, 179, 138);
+color: white;
+border: 2px solid green;
+border-radius: 5px;
+font-weight: 600;
+}
+.line{
+  width: 80vw;
+  height: 2px;
+  background-color: rgb(72, 179, 138);
+  margin: 20px 10vw 20px 10vw;
+}
+article{
+  text-align: center;
+}
+h3{
+  margin: 10px;
+}
+h1{
+  text-align: center;
+  color: rgb(72, 179, 138);
+}
+h2{
+  text-align: center;
+  font-size: 30px;
+}
